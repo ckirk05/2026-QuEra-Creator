@@ -392,3 +392,9 @@ This repository was created as a solution to the [QuEra Creators' Challenge](htt
 
 ### Presentation
 Our team presentation is available [here](https://docs.google.com/presentation/d/1hBW5Ps5TkviCfpSSOOlIdjDWgmUSFoRD6cf_ksqqcs0/edit?slide=id.g3bc8c5ed390_3_34#slide=id.g3bc8c5ed390_3_34)
+
+### Demo Video
+
+Watch our project demo on YouTube:
+
+https://youtu.be/hY5J1K71KTM
